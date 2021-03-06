@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SeaBattle/static/css/main.6fb7000d.chunk.css",
-    "main.js": "/SeaBattle/static/js/main.440cfe10.chunk.js",
-    "main.js.map": "/SeaBattle/static/js/main.440cfe10.chunk.js.map",
+    "main.js": "/SeaBattle/static/js/main.f110026b.chunk.js",
+    "main.js.map": "/SeaBattle/static/js/main.f110026b.chunk.js.map",
     "runtime-main.js": "/SeaBattle/static/js/runtime-main.a207baec.js",
     "runtime-main.js.map": "/SeaBattle/static/js/runtime-main.a207baec.js.map",
     "static/js/2.8086cead.chunk.js": "/SeaBattle/static/js/2.8086cead.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a207baec.js",
     "static/js/2.8086cead.chunk.js",
     "static/css/main.6fb7000d.chunk.css",
-    "static/js/main.440cfe10.chunk.js"
+    "static/js/main.f110026b.chunk.js"
   ]
 }
