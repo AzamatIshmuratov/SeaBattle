@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SeaBattle/static/css/main.6fb7000d.chunk.css",
+    "main.js": "/SeaBattle/static/js/main.440cfe10.chunk.js",
+    "main.js.map": "/SeaBattle/static/js/main.440cfe10.chunk.js.map",
+    "runtime-main.js": "/SeaBattle/static/js/runtime-main.a207baec.js",
+    "runtime-main.js.map": "/SeaBattle/static/js/runtime-main.a207baec.js.map",
+    "static/js/2.8086cead.chunk.js": "/SeaBattle/static/js/2.8086cead.chunk.js",
+    "static/js/2.8086cead.chunk.js.map": "/SeaBattle/static/js/2.8086cead.chunk.js.map",
+    "static/js/3.b9085749.chunk.js": "/SeaBattle/static/js/3.b9085749.chunk.js",
+    "static/js/3.b9085749.chunk.js.map": "/SeaBattle/static/js/3.b9085749.chunk.js.map",
+    "index.html": "/SeaBattle/index.html",
+    "static/css/main.6fb7000d.chunk.css.map": "/SeaBattle/static/css/main.6fb7000d.chunk.css.map",
+    "static/js/2.8086cead.chunk.js.LICENSE.txt": "/SeaBattle/static/js/2.8086cead.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a207baec.js",
+    "static/js/2.8086cead.chunk.js",
+    "static/css/main.6fb7000d.chunk.css",
+    "static/js/main.440cfe10.chunk.js"
+  ]
+}
